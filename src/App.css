@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  display: block;
+  width: 100%;
+  background-color: #111;
+  font-family: "Hind", sans-serif;
+}
+.app__body {
+  margin-top: -4rem;
+}
+
+@media (min-width: 700px) {
+}
