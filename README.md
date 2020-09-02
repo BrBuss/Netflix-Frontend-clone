@@ -2,7 +2,7 @@
 
 ## 🚀 Project
 
-This project is a simple Netflix clone, created with React, The MovieDB(TMDB) api.
+This project is a simple Netflix clone, created with React and The MovieDB(TMDB) api.
 The demo is hosted in Firebase, you can check it [here](https://netflix-clone-bs.firebaseapp.com/)
 
 
